@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/arunsingh009/frontendmentorchallenge12)
+- Live Site URL: [Click here](https://arunsingh009.github.io/frontendmentorchallenge12/)
 
 ## My process
 
